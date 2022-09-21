@@ -1,6 +1,21 @@
+p {
+    color: #23F0C7
+}
+body {
 
 
-
+ background: rgb(0,17,252);
+background: radial-gradient(circle, rgba(0,17,252,1) 22%, rgba(1,0,4,0.8939775739397321) 100%);
+}
+a{
+    color: #EF767A
+}
 h1 {
-	font-family: 'Lobster', cursive;
+    color:#23F0C7
+}
+
+
+p {
+   font-family: 'Comfortaa', cursive; color: #23F0C7
+
 }
