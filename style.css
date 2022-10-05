@@ -1,25 +1,15 @@
-.red {
-    background-color: red;
+.button {
+	color: 0000;
+	background-color: #feca30;
+    border-radius: 20px;
+    padding: 20px; 
+    display: inline-block;
+    font-family: "Verdana";
+    text-decoration: none;
+    font-weight: bold;
 }
 
-.blue {
-    background-color: blue;
-}
-.green {
-    background-color: orange;
-}
-
-p {
-   font-family: 'Comfortaa', cursive; 
-
-}
-.container {
-
-    display: flex;
-    background-color: gold;
-    height: 300px;
-
-    justify-content: space-around;
-    flex-direction: row;
-    align-items: flex-end;
+.button:hover {
+	background-color: #fff;
+	border: 3px solid #0000;  
 }
